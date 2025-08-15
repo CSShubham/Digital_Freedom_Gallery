@@ -4,7 +4,7 @@
 
 A modern, interactive tribute to India's freedom fighters and historical journey from ancient times to the digital future. Built with React and powered by smooth animations, this gallery celebrates India's rich heritage while envisioning its technological tomorrow.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-orange?style=for-the-badge)](https://your-deployment-url.com)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-orange?style=for-the-badge)](https://digital-freedom-gallery.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-green?style=for-the-badge)](https://github.com/CSShubham/Digital_Freedom_Gallery)
 
 ## ✨ Features
